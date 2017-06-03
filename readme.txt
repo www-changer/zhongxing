@@ -1,11 +1,15 @@
-1¡¢ÔËÐÐ»·¾³£ºjre1.8(64Î»)
-2¡¢ÔËÐÐ·½Ê½£ºstart.bat
-3¡¢ÍØÆËÍ¼£ºÏê¼û topo.txt
-4¡¢ÏÞÖÆÌõ¼þ£º Ïê¼û limit.txt
-5¡¢½á¹ûÏÔÊ¾£º
-    a¡¢Âú×ãËùÓÐÏÞÖÆÌõ¼þ£ºÊä³ö×îÐ¡»¨·ÑÂ·¾¶
-    b¡¢³¬³ö²½ÊýÏÞÖÆ£º·µ»Ø²½ÊýÏà¶Ô½ÏÐ¡µÄ×îÐ¡»¨·ÑÂ·¾¶
-    c¡¢×îÐ¡»¨·Ñ
-    d¡¢×ÜÊ±¼ä
-6¡¢¸ù¾ÝÌáÊ¾ÐÅÏ¢°´ q ÍË³ö
-7¡¢zhongxingÎªjava¹¤³Ì
+##2017ä¸­å…´ç®—æ³•å¤§èµ›
+
+1. èµ›é¢˜ï¼štopic.pdf
+2. ç¤ºä¾‹å›¾ï¼štopo.PNG
+3. è¿è¡ŒçŽ¯å¢ƒï¼šjre1.8(64ä½)
+4. è¿è¡Œæ–¹å¼ï¼šstart.bat
+5. æ‹“æ‰‘å›¾ï¼šè¯¦è§ topo.txt
+6. é™åˆ¶æ¡ä»¶ï¼š è¯¦è§ limit.txt
+7. ç»“æžœæ˜¾ç¤ºï¼š
+    - æ»¡è¶³æ‰€æœ‰é™åˆ¶æ¡ä»¶ï¼šè¾“å‡ºæœ€å°èŠ±è´¹è·¯å¾„
+    - è¶…å‡ºæ­¥æ•°é™åˆ¶ï¼šè¿”å›žæ­¥æ•°ç›¸å¯¹è¾ƒå°çš„æœ€å°èŠ±è´¹è·¯å¾„
+    - æœ€å°èŠ±è´¹
+    - æ€»æ—¶é—´
+8. æ ¹æ®æç¤ºä¿¡æ¯æŒ‰ q é€€å‡º
+9. zhongxingä¸ºjavaå·¥ç¨‹
